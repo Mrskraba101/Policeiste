@@ -19,4 +19,4 @@ client.on('guildMemberAdd', member => {
   }
 });
 
-client.login('BOT_TOKEN');
+client.login('MTQ1Njc2ODMxMjQzNTQxMzMwMw.Gprgbx.TIqL_pzpaxYL0jT-w8ra3rlKikD3CpAJGENOCg');
