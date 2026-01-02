@@ -1,0 +1,13 @@
+{
+  "users": [
+    {
+      "username": "exampleuser",
+      "displayname": "Esimerkki K\u00e4ytt\u00e4j\u00e4",
+      "joinTime": "2025-01-01T12:00:00Z",
+      "cards": [
+        "B"
+      ],
+      "age": "ei tietoa"
+    }
+  ]
+}
