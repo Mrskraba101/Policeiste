@@ -37,10 +37,6 @@ button {
   cursor: pointer;
 }
 
-button:hover {
-  opacity: 0.9;
-}
-
 .card {
   border: 1px solid #ddd;
   padding: 12px;
